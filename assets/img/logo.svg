@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Logo Comanda Fácil">
+  <defs>
+    <linearGradient id="g" x1="16" y1="14" x2="112" y2="118" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffb52f"/>
+      <stop offset="1" stop-color="#ff5a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="34" fill="#fff2df"/>
+  <path d="M34 61c0-19 13-34 30-34s30 15 30 34H34Z" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M31 69h66c7 0 12 5 12 12 0 6-5 11-12 11H31c-7 0-12-5-12-11 0-7 5-12 12-12Z" fill="none" stroke="#ff6a00" stroke-width="8"/>
+  <path d="M32 92c7 9 17 14 32 14s25-5 32-14" fill="none" stroke="#ff6a00" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="51" cy="47" r="4" fill="#ff6a00"/>
+  <circle cx="65" cy="39" r="4" fill="#ff6a00"/>
+  <circle cx="80" cy="49" r="4" fill="#ff6a00"/>
+</svg>
