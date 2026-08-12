@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 200" role="img" aria-label="Batata frita">
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="260" y2="200"><stop stop-color="#ffcc53"/><stop offset="1" stop-color="#f18420"/></linearGradient></defs>
-  <rect width="260" height="200" rx="30" fill="url(#bg)"/>
-  <g stroke="#ffd044" stroke-width="15" stroke-linecap="round">
-    <path d="M75 48l23 111"/><path d="M105 38l11 125"/><path d="M136 42l-9 120"/><path d="M164 54l-24 108"/><path d="M190 70l-38 94"/>
-  </g>
-  <path d="M55 95h150l-18 82H73L55 95Z" fill="#9b311f"/>
-  <path d="M72 112h116l-11 48H82l-10-48Z" fill="#d94a2b"/>
-</svg>
